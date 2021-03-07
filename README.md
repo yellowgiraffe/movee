@@ -1,2 +1,2 @@
 # movee
-Landibg page for moving company
+Landing page for moving company
